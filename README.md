@@ -1,6 +1,7 @@
 <!-- @format -->
 
 # SamePageRouting
+https://selarabi.github.io/SamePageRouting/
 
 Single Page Application
 This repository contains an HTML web page that showcases a website for a movie rental service called Hollywood Classic Films. The web page features a navigation bar with links to different pages of the website, including "About", "Products", "Checkout", and "Featured Film". The featured film page displays information about the current featured film, including an image of the film poster and links to buy movie tickets or purchase the Blu-Ray.
